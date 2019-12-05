@@ -1,5 +1,5 @@
 # Note
-I highly suggest that you check [this paper](https://www.s.u-tokyo.ac.jp/en/utrip/archive/2018/pdf/1_01.pdf) to get a better sense of the goal of this assignment.
+I highly suggest that you check [this paper](http://bit.ly/2GHCs06) to get a better sense of the goal of this assignment.
 
 # Week3 programming assignment
 Data files you will find here https://github.com/hse-aml/hadron-collider-machine-learning/releases/tag/Week_3
