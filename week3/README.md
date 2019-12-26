@@ -1,5 +1,5 @@
 # Note
-I highly suggest that you check [this paper](http://bit.ly/2GHCs06) to get a better sense of the goal of this assignment.
+Finally passed this assignment after checking out the forum for the first time :D It turns out that the correlation check and the KS metric contribute a little to the overall score. My model had a bit of a problem with the KS metric, but I decided to reduce the level of noise, and *voilà*!
 
 # Week3 programming assignment
 Data files you will find here https://github.com/hse-aml/hadron-collider-machine-learning/releases/tag/Week_3
