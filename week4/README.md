@@ -1,3 +1,10 @@
+# Assignment passed!
+
+For this assignment, I implemented a solution similar to the work of 
+[Lavanya Shukla](https://www.kaggle.com/lavanyashukla01) which uses a fully-connected neural network with 3 hidden 
+layers, all using the ReLU activation function. My implementation only makes a few tweaks to the features before
+training the model. So I'm not going to share the source code here. You can check out her profile on Kaggle.
+
 # Week4 assignment
 
 In this task you have to design a prediction model that is able to discriminate the basetracks beloning to the electromagnetic showers from the background basetracks. The goal is to get the best possible score (ROC AUC). 
